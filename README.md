@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on some [practice contest code](https://open.kattis.com/problems/addingwords) in Java!
+- 🔭  I’m currently working on some [practice contest code](https://github.com/cskipworth/ContestCode) in Java!
 - 🌱  I’m currently learning C++ and web design through HTML/CSS.
 - 🤔  I’m looking for opportunities to contribute to open-source code for beginners.
 - 📫  How to reach me: https://www.linkedin.com/in/clarissa-skipworth/
