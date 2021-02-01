@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭  I’m currently working on some [practice contest code](https://github.com/cskipworth/ContestCode) in Java!
 - 🌱  I’m currently learning C++ and web design through HTML/CSS.
