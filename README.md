@@ -1,8 +1,8 @@
 ### Hello! 👋
 
 - 🔭  I’m currently working on some [practice contest code](https://github.com/cskipworth/ContestCode) in Java!
-- 🌱  I’m currently teaching myself C++ and web design through HTML/CSS.
-- 🤔  I’m looking for opportunities to contribute to open-source code for beginners.
+- 🌱  I’m currently teaching myself Python, C++, and web design through HTML/CSS.
+- 🤔  I’m looking for a summer internship and opportunities to contribute to open-source code for beginners.
 - 📫  How to reach me: Send me a message over [LinkedIn](https://www.linkedin.com/in/clarissa-skipworth/)!
 
 <!--
