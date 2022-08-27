@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🌱  I’m currently working on interacting with the Flow blockchain in Cadence. I am also constantly learning Python, C++, and web design through HTML/CSS and JavaScript.
-- 👩‍💻  Professionaly, I am a part-time full-stack software developer with [BlocksForEarth](https://github.com/WildChainDevs), a startup NFT marketplace for zoos and museums! Looking for full-time work as a software developer.
+- 🌱  I am always learning new ways to work in Python, Java, C++, and web design through HTML/CSS and JavaScript. My current fascination is with Natural Language Processing and UX/UI design.
+- 👩‍💻  Professionaly, I have experience as a full-stack software developer with [BlocksForEarth](https://github.com/WildChainDevs), a startup NFT marketplace for zoos and museums. I am looking for full-time work as a software developer; reach out!
 - 🎵  In my free time, I enjoy learning how to produce music and speak Korean.
 - 📫  How to reach me: Send me a message over [LinkedIn](https://www.linkedin.com/in/clarissa-skipworth/)!
 
